@@ -1,0 +1,6 @@
+Name,Country,Contact,Email,Password,AccountNo,CurrentBalance
+<<<<<<< HEAD
+T,SA,0699137643,xakatat@gmail.com,1234567,SA90036900100084,8500.0,Male
+=======
+Gomagoma Sange,Qatar,06789562314,sange@gmail.com,1234567,QA90036900101334,0,Female
+>>>>>>> 101d979074ef7ff1cadbe13621e3a050c0e87f53
